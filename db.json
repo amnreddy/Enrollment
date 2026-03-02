@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Shaik Abubakar Siddiq",
+      "email": "abubakarshaik356@gmail.com",
+      "department": "CSE",
+      "course": "Java Full Stack(JFS)",
+      "id": "5b58"
+    },
+    {
+      "id": "4f00",
+      "name": "Naveen",
+      "email": "naveen@gmail.com",
+      "department": "CSE",
+      "course": "Java Full Stack"
+    },
+    {
+      "id": "e948",
+      "name": "Ajay",
+      "email": "ajay@gmail.com",
+      "department": "EEE",
+      "course": "Java Full Stack"
+    },
+    {
+      "id": "5b72",
+      "name": "Chaitanya",
+      "email": "chaitu@gmail.com",
+      "department": "CSE",
+      "course": "Java Full Stack"
+    },
+    {
+      "id": "0c87",
+      "name": "Kesava",
+      "email": "kesav@gmail.com",
+      "department": "MCA",
+      "course": "Java Full Stack"
+    },
+    {
+      "id": "2693",
+      "name": "Narendra",
+      "email": "narendrababu@gmail.com",
+      "department": "MCA",
+      "course": "Java Full Stack"
+    }
+  ]
+}
